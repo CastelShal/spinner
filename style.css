@@ -266,7 +266,7 @@ body {
 .output {
   border: 1px solid rgb(222 203 167);
   border-radius: 0.5rem;
-  padding: 0.5rem;
+  padding: 2.5rem;
   background-color: black;
   color: rgb(222 203 167);
   font-size: 1.5rem; /* 30px */
