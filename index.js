@@ -6,38 +6,43 @@
  */
 const pool = [
   {
-    text: "10% Off Sticker Price",
+    text: "Rondo Alla Turca",
     color: "hsl(197 30% 43%)",
     disable: false
   },
   {
-    text: "Free Car",
+    text: "The marriage of Figaro",
     color: "hsl(173 58% 39%)",
     disable: false
   },
   {
-    text: "No Money Down",
+    text: "Moonlight Sonata",
     color: "hsl(43 74% 66%)",
     disable: false
   },
   {
-    text: "Half Off Sticker Price",
+    text: "Can Can Offenbach",
     color: "hsl(27 87% 67%)",
     disable: false
   },
   {
-    text: "Free DIY Carwash",
+    text: "Sabre Dance",
     color: "hsl(12 76% 61%)",
     disable: false
   },
   {
-    text: "Eternal Damnation",
+    text: "The Marche",
     color: "hsl(350 60% 52%)",
     disable: false
   },
   {
-    text: "Used Travel Mug",
+    text: "The Swan Lake-Spanish Dance",
     color: "hsl(91 43% 54%)",
+    disable: false
+  },
+  {
+    text: "Telemann Viola Concerto, 2nd Movement",
+    color: "hsl(65 70% 54%)",
     disable: false
   }
 ];
