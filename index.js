@@ -159,6 +159,12 @@ const selectPrize = () => {
   setupWheel()
 };
 
+const removeItem = () => (starter){
+  const item = prizes.find(obj => obj.text.toString().startsWith(starter));
+	item.disable = true;
+	setupWheel()
+}
+
 trigger.addEventListener("click", () => {
   if (prizes.length == 0) {
     setOutput("No remaining options :(");
